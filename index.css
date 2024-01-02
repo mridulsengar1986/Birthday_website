@@ -8,7 +8,7 @@
 body{
    text-align: center;
    font-family: 'Happy Monkey', cursive;/*Happy  Monkey Cursive font taken from website and embadded in html and css file*/
-   background: linear-gradient(orange,white,pink,yellow,pink,white) ;/*#a2d2ff;*/
+   background: linear-gradient(pink,yellow,pink,white) ;/*#a2d2ff;*/
    color: #ffffff;
 }
 h1,h2,h3,h4,p,a{
